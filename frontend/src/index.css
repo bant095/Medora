@@ -10,3 +10,7 @@
 * {
   font-family: 'Poppins', sans-serif;
 }
+
+::-webkit-scrollbar {
+  @apply hidden;
+}
