@@ -36,6 +36,7 @@ const Doctors = () => {
         >
           Filters
         </button>
+        <div></div>
 
         <div
           className={`flex-col text-sm gap-4 text-gray-600 ${
